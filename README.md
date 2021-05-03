@@ -1,5 +1,5 @@
-# Hola-mundo
-Este es mi primer repositorio
+# Hola mundo
+Este es mi primer repositorio.
 
 Autor: Alexis Ayala
-Fecha: 3 de mayo
+Fecha: 3 de mayo del 2021
